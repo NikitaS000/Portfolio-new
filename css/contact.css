@@ -1,0 +1,32 @@
+h1 {
+    font-size: 60px;
+    color: #304040;
+
+    margin-top: 20px;
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+    color: #304040;
+
+    margin-top: 20px; 
+}
+.call-img {
+    width: 100px;
+    height: 100px;
+}
+.info-box {
+    width: 450px;
+    height: 250px;
+    background-color: white;
+    border: #304040 10px solid;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 50px;
+}
+.contact-box {
+    display: flex;
+}

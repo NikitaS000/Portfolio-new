@@ -1,0 +1,66 @@
+button {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: large;
+    color: #304040;
+}
+.box {
+    margin: auto;
+}
+.my-works-content{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.my-works h1 {
+    font-size: 80px;
+    color: #304040;
+
+    margin-top: 20px;
+    text-align: center;
+}
+.cont {
+    width: 450px;
+    height: 250px;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: #304040 10px solid;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 50px;
+}
+
+.cont button {
+    width: 150px;
+    height: 50px;
+    border: #304040 5px solid;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 50px;
+}
+
+
+
+.cont1 {
+    background-image: url(img/proj-prev1.png);
+}
+.cont2 {
+    background-image: url(img/proj_prev2.png);
+}
+.cont3 {
+    background-image: url(img/proj-prev3.png);
+}
+.cont4 {
+    background-image: url(img/proj-prev4.png);
+}
+.cont5 {
+    background-image: url(img/proj-prev5.png);
+}
+/* .cont {
+    background-image: url();
+} */
